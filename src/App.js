@@ -92,7 +92,7 @@ function App() {
           desc="Money-back guarantee"
           descLink=""
           backgroundImg={Accessories}
-          leftBtnTxt="shop NOW"
+          leftBtnTxt="SHOP NOW"
           leftBtnLink=""
           rightBtnTxt="LEARN MORE"
           rightBtnLink=""
